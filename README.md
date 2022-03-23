@@ -1,4 +1,4 @@
-# Shin Yu Mi Portfolio 🐹
+# Shin Yu Mi🐹
 <!--[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yumishin43)](https://solved.ac/yumishin43)-->
 
