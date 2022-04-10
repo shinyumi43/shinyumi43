@@ -1,8 +1,8 @@
 # Shin Yu Mi🐹
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yumishin43)](https://solved.ac/yumishin43)
 <!--[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yumishin43)](https://solved.ac/yumishin43)-->
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yumishin43)](https://solved.ac/yumishin43)-->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yumishin43)](https://solved.ac/yumishin43)
 
 ![shinyumi43's github stats](https://github-readme-stats.vercel.app/api?username=shinyumi43&show_icons=true&theme=radical)
 # 💪 Skills
